@@ -1,0 +1,23 @@
+{
+  "name": "chosen-dev",
+  "version": "1.0.0",
+  "description": "Babatunde Chosen David - Web Developer, Graphic Designer and Engineering Student Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babatunded760-creator/Chosen-Dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babatunded760-creator/Chosen-Dev/issues"
+  },
+  "homepage": "https://github.com/babatunded760-creator/Chosen-Dev#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
